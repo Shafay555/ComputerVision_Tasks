@@ -1,0 +1,5 @@
+Manual count: 5 log left se right guzre (IN = 5, OUT = 0). System count: IN = 4, OUT = 0. 
+Difference 1 ka hai. Wajah: ek group mein 3-4 log saath chal rahe the, aur aapas mein overlap (occlusion) ho gaye. 
+Is se tracker ne ek bande ki ID ko detect hi nahi kiya toh line cross karne par woh miss ho gaya. 
+Restricted zone mein 4 alerts aaye, jabke 5 log guzre thy
+wajah wahi ID switch hai (ek hi banda doosri ID se dobara zone mein aaya, aur ek ki ID share ho gayi).
